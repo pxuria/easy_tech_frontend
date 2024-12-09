@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import * as Icon from '@phosphor-icons/react/dist/ssr'
 import Image from 'next/image';
+import * as Icon from '@phosphor-icons/react/dist/ssr'
 
 const CaseStudy = () => {
     return (
